@@ -10,4 +10,4 @@ Uses descriptive activity and variable names to name the activities in the data 
 
 Appropriately labels the data set with descriptive variable names. 
 
-Using plyr package function From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+Using plyr package function and the data set in step 5, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
