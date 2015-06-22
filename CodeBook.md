@@ -32,9 +32,7 @@ A new column is added for activity description and variable labels are descripti
 From the intermediate data set is created a final tidy data set where numeric
 variables are averaged for each activity and each subject.
 
-Tidy data set
-
-### Variables
+####Tidy data set
 
 The tidy data set contains :
 
