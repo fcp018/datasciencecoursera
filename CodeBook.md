@@ -4,9 +4,6 @@ Code Book
 This is a code book that describes the variables, data, and any transformations or work that you performed to clean up the data.
 
 Raw data collection
--------------------
-
-### Collection
 
 Raw data are obtained from UCI Machine Learning repository: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
@@ -38,7 +35,6 @@ From the intermediate data set is created a final tidy data set where numeric
 variables are averaged for each activity and each subject.
 
 Tidy data set
--------------------
 
 ### Variables
 
